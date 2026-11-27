@@ -1,0 +1,15 @@
+h1{
+    color:darkgreen;
+    background-color:cornsilk;
+    font-size: 20px;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 30px;
+    column-count: 3;
+    column-gap: 60px;
+
+}
+p{
+    color:black
+}
